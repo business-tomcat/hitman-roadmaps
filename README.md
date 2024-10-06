@@ -4,7 +4,7 @@
 
 I'm not bundled with IoI in any kind.  
 Based on freely avaiable data at https://ioi.dk/hitman/roadmaps  
-This is just a fan projekt!!
+This is just a fan project!
 
 # Hints
 
@@ -12,6 +12,7 @@ This is just a fan projekt!!
 * Export has german comments cause of german Nextcloud instance.
 * Calendar entries are all-day events.
 * Reminder is always one day ahead at 9 o'clock am.
+* Can be imported in various calendar apps, e.g. Thunderbird.
 
 # Changelog
 
