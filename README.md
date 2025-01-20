@@ -11,10 +11,16 @@ This is just a fan project!
 * Calendar entries created with Nextcloud and exported in ics format.
 * Export has german comments cause of german Nextcloud instance.
 * Calendar entries are all-day events.
-* Reminder is always one day ahead at 9 o'clock am.
+* ~~Reminder is always one day ahead at 9 o'clock am.~~
+  * No reminders, too annoying ;)
 * Can be imported in various calendar apps, e.g. Thunderbird.
 
 # Changelog
+
+## 2025-01-20
+
+* Added "2025 - Season of the Luck"
+* No reminders anymore
 
 ## 2024-10-06
 
