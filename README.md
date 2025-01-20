@@ -12,7 +12,7 @@ This is just a fan project!
 * Export has german comments cause of german Nextcloud instance.
 * Calendar entries are all-day events.
 * ~~Reminder is always one day ahead at 9 o'clock am.~~
-  * No reminders, too annoying ;)
+  * No reminders, too annoying :wink:
 * Can be imported in various calendar apps, e.g. Thunderbird.
 
 # Changelog
